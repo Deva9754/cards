@@ -11,14 +11,14 @@ body{
     font-family: "Poppins", sans-serif;
 }
 
-.user-details{
+/* .user-details{
     display: flex;
     flex-direction: column;
     gap: 24px;
     padding: 32px;
     background: rgb(255,170,232);
     background: linear-gradient(90deg, rgba(255,170,232,0.3239889705882353) 0%, rgba(255,129,213,0.53687412464986) 54%, rgba(255,186,245,0.31278448879551823) 100%);
-}
+} */
 .heading{
     display: flex;
 }
