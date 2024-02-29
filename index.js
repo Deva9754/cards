@@ -4,12 +4,13 @@ const demo = ()=>{
         name:"devashissh",
         class: "b.tech"
 
-    }
+    },
     {
         name:"devashissh",
         class: "b.tech"
 
-    }{
+    },
+    {
         name:"devashissh",
         class: "b.tech"
 
